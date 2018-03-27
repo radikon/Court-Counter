@@ -20,7 +20,6 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/green"
                 android:orientation="vertical">
 
                 <TextView
@@ -29,7 +28,6 @@
                     android:layout_gravity="center_horizontal"
                     android:padding="15px"
                     android:text="Team A"
-                    android:textColor="@color/white"
                     android:textStyle="bold" />
 
                 <TextView
@@ -39,7 +37,6 @@
                     android:layout_gravity="center_horizontal"
                     android:padding="15px"
                     android:text="0"
-                    android:textColor="@color/white"
                     android:textSize="60sp"
                     android:textStyle="normal" />
 
@@ -76,7 +73,6 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/blue"
                 android:orientation="vertical">
 
                 <TextView
@@ -85,7 +81,6 @@
                     android:layout_gravity="center_horizontal"
                     android:padding="15px"
                     android:text="Team B"
-                    android:textColor="@color/white"
                     android:textStyle="bold" />
 
                 <TextView
@@ -95,7 +90,6 @@
                     android:layout_gravity="center_horizontal"
                     android:padding="15px"
                     android:text="0"
-                    android:textColor="@color/white"
                     android:textSize="60sp"
                     android:textStyle="normal" />
 
